@@ -1,0 +1,23 @@
+**/.idea/
+.idea/
+*.iml
+.vscode/
+.DS_Store
+*.swp
+Thumbs.db
+desktop.ini
+.DS_Store
+*.log
+*.tmp
+*.bak
+
+
+# Terraform files
+*.tfstate
+*.tfstate.backup
+.terraform/
+.terraform.lock.hcl
+
+../../.idea/aws.xml
+../../.idea/misc.xml
+
